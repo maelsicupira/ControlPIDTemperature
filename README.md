@@ -1,1 +1,1 @@
-# Control PID and Temperature
+# Controle PID de temperatura (LM35 + Arduino)
